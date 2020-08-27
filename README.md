@@ -1,11 +1,19 @@
-# HeavenClient
-HeavenClient is a custom, made-from-scratch game client.
+# OpenStory
+OpenStory is based on HeavenClient. The goal of this project is to create an independent client (and server in the future). The client from which this is based is a custom, made-from-scratch game client of MapleStory.
+
+#Roadmap/Goals
+- Upgrade to latest C++ standard
+- Enable development with VS Code
+- Use WZ file instead of NX 
+- Backwards compatible with Win7
+- Develop a botting system where user created scripts can be run
+- Feature complete with v83
+- Cross platform MacOS/Linux
+- Use clean v83 WZ files
 
 # Supported versions
 - The client is currently compatible with version 83 servers.
 - The client has only been tested with [HeavenMS].
-- **[Switch]**
-- **[Linux]**
 
 # Configuration
 The build can be configured by editing the **MapleStory.h** file. The following options are available:
