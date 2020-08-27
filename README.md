@@ -1,7 +1,7 @@
 # OpenStory
 OpenStory is based on HeavenClient. The goal of this project is to create an independent client (and server in the future). The client from which this is based is a custom, made-from-scratch game client of MapleStory.
 
-#Roadmap/Goals
+# Roadmap/Goals
 - Upgrade to latest C++ standard
 - Enable development with VS Code
 - Use WZ file instead of NX 
